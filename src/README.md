@@ -1,0 +1,1 @@
+### An employee management application using Hibernate and MySQL database
