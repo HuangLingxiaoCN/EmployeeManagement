@@ -1,4 +1,4 @@
-package com.practice.hibernate;
+package com.huang.entity;
 
 import javax.persistence.*;
 
